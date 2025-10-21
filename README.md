@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 🌱 I’m currently learning **programming**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpkVGGIxucTijeWOBM1sk_TsqU716Bw4UfJpbc8Xog3P6u-U_bTFpzw55Un5SQBn_bn2nwgd09sv3HJdOOgQp5FQKtNlfy-ciFZjONKv_eu0M2wnH12cAO5EXDe584yX8fouvjuPzsq1-rMrB16KAMf-ly3U7z38GxdTQfBzpzo-ri6mzOunXZpvLk/s700/programacion_gamer_001.gif">
 
 
 <br>
